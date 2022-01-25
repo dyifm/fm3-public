@@ -1,0 +1,6 @@
+.pio
+.project
+.settings
+*.launch
+.cproject
+*.exe

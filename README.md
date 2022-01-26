@@ -17,3 +17,29 @@ This addresses some major issue with classical, rotating machines:
 - During the insertion you can move the machine slowly towards you, not yourself to the machine and leave the comfortable position. This is particularly helpful when using it wih a partner
 - Versatile angles
 - Short setup time (<1min)
+
+# Getting Started
+Checkout the [BOM & Assembly Instructions](dyifm.com)
+
+## Mechanics
+![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/fm3 v25.png?raw=true)
+
+## Electronics
+The software is designed to run on an ESP32 ([Amazon](http://www.amazon.de/dp/B074RGW2VQ/?tag=ms0c19-20)). 
+This allows to use this JTAG adapter from [Amazon](http://www.amazon.com/dp/B00GSMDF7Y/?tag=ms0c19-20). 
+Others might work but we use this one.
+
+![name](https://github.com/dyifm/fm3-public/blob/main/hardware/01 - Electronics/main v23_s1.png?raw=true)
+![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/main v1.png?raw=true)
+![name](https://github.com/dyifm/fm3-public/blob/main/hardware/01 - Electronics/psu v10_s1.png?raw=true)
+![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/psu v2.png?raw=true)
+
+## Software
+
+# Variations
+Use goggles such as the FPV goggles from Fatshark to have a hands-free experience.
+
+The followsing attaches a phone to the goggles:
+USB to HDMI adapter [Amazon](http://www.amazon.de/dp/B07THJGZ9Z/?tag=ms0c19-20)
+HDMI M2M [Amazon](http://www.amazon.de/dp/B08F9R638T/?tag=ms0c19-20)
+Goggles [Amazon](http://www.amazon.de/dp/B07CYN44TC/?tag=ms0c19-20)

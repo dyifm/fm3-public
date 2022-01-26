@@ -1,10 +1,10 @@
 # The Machine
 The machine rests on two adjustable legs which lets you use it while standing, lying, hanging, or whatever position you can imagine. Alone, or with your partner.
+![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/machine.png?raw=true)
 
 # Outstanding Performance
 Powerful sex machine with unique characteristics.
-Not only can you instantaniously adjust the speed of penetration while it is in use but also the depth (stroke length 16cm) and offset, which defines at what depth to perform the stroke. 
-![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/machine.png?raw=true)
+Not only can you instantaneously adjust the speed of penetration while it is in use but also the depth (stroke length 16cm) and offset, which defines at what depth to perform the stroke. 
 
 The movement can vary from:
 - slow to fast 
@@ -12,7 +12,7 @@ The movement can vary from:
 - long strokes to rumbling vibrations
 
 # Key Benefits
-This adresses some major issue with classical, rotating machines: 
+This addresses some major issue with classical, rotating machines: 
 - The direction of movement can be changed at any point
 - During the insertion you can move the machine slowly towards you, not yourself to the machine and leave the comfortable position. This is particularly helpful when using it wih a partner
 - Versatile angles

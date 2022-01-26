@@ -43,3 +43,6 @@ The followsing attaches a phone to the goggles:
 USB to HDMI adapter [Amazon](http://www.amazon.de/dp/B07THJGZ9Z/?tag=ms0c19-20)
 HDMI M2M [Amazon](http://www.amazon.de/dp/B08F9R638T/?tag=ms0c19-20)
 Goggles [Amazon](http://www.amazon.de/dp/B07CYN44TC/?tag=ms0c19-20)
+
+# Support
+To keep the doors open, please support me on Patreon: [patreon.com/dyifm](https://patreon.com/dyifm)

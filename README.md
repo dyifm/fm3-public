@@ -4,7 +4,7 @@ The machine rests on two adjustable legs which lets you use it while standing, l
 # Outstanding Performance
 Powerful sex machine with unique characteristics.
 Not only can you instantaniously adjust the speed of penetration while it is in use but also the depth (stroke length 16cm) and offset, which defines at what depth to perform the stroke. 
-[The Machine](https://github.com/dyifm/fm3-public/blob/main/docs/img/machine.png?raw=true)
+![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/machine.png?raw=true)
 
 The movement can vary from:
 - slow to fast 

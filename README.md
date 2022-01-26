@@ -29,8 +29,8 @@ The software is designed to run on an ESP32 ([Amazon](http://www.amazon.de/dp/B0
 This allows to use this JTAG adapter from [Amazon](http://www.amazon.com/dp/B00GSMDF7Y/?tag=ms0c19-20). 
 Others might work but we use this one.
 
-![name](https://github.com/dyifm/fm3-public/blob/main/hardware/01 - Electronics/main v23_s1.png?raw=true)
-![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/main v1.png?raw=true)
+![name]("https://github.com/dyifm/fm3-public/blob/main/hardware/01 - Electronics/main v23_s1.png?raw=true")
+![name]("https://github.com/dyifm/fm3-public/blob/main/docs/img/main v1.png?raw=true")
 ![name](https://github.com/dyifm/fm3-public/blob/main/hardware/01 - Electronics/psu v10_s1.png?raw=true)
 ![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/psu v2.png?raw=true)
 

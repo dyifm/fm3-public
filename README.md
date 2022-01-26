@@ -1,6 +1,6 @@
 # The Machine
 The machine rests on two adjustable legs which lets you use it while standing, lying, hanging, or whatever position you can imagine. Alone, or with your partner.
-![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/machine.png?raw=true)
+![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/fm3_2022-Jan-26_02-26-18PM-000_CustomizedView14254438250.png?raw=true)
 
 # Outstanding Performance
 Powerful sex machine with unique characteristics.

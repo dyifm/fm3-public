@@ -19,7 +19,7 @@ This addresses some major issue with classical, rotating machines:
 - Short setup time (<1min)
 
 # Getting Started
-Checkout the [BOM & Assembly Instructions](dyijoy.com)
+Checkout the [BOM & Assembly Instructions](http://dyijoy.com)
 
 ## Mechanics
 ![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/fm3v25.png?raw=true)

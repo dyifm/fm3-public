@@ -1,5 +1,6 @@
 # The Machine
 The machine rests on two adjustable legs which lets you use it while standing, lying, hanging, or whatever position you can imagine. Alone, or with your partner.
+
 ![name](https://github.com/dyifm/fm3-public/blob/main/docs/img/6ebcfa37-bfe7-42b2-9974-8073d6d36ab5.PNG?raw=true)
 
 # Outstanding Performance
@@ -14,7 +15,7 @@ The movement can vary from:
 # Key Benefits
 This addresses some major issue with classical, rotating machines: 
 - The direction of movement can be changed at any point
-- During the insertion you can move the machine slowly towards you, not yourself to the machine and leave the comfortable position. This is particularly helpful when using it wih a partner
+- During the insertion you can move the machine slowly towards you, not yourself to the machine and leave the comfortable position. This is particularly helpful when using it with a partner
 - Versatile angles
 - Short setup time (<1min)
 
